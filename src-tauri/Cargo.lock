@@ -5482,7 +5482,7 @@ dependencies = [
 
 [[package]]
 name = "打地鼠"
-version = "0.2.6"
+version = "1.0.0"
 dependencies = [
  "autopilot",
  "enigo",
